@@ -67,7 +67,6 @@ const UserInformation = () => {
 
   const onSelectPurPoses = (value: any) => {
     setPurposes(value);
-
   };
 
   return (
